@@ -1,0 +1,1044 @@
+[22-Jan-2018 09:10:48 UTC] PHP Fatal error:  Class 'Utils' not found in /home/ubuntu/workspace/ios/getRest.php on line 12
+[22-Jan-2018 09:10:48 UTC] PHP Stack trace:
+[22-Jan-2018 09:10:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/ios/getRest.php:0
+[07-Feb-2018 07:58:34 UTC] PHP Warning:  require(classes/AutoLoad.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ios/getRest.php on line 2
+[07-Feb-2018 07:58:34 UTC] PHP Stack trace:
+[07-Feb-2018 07:58:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/ios/getRest.php:0
+[07-Feb-2018 07:58:34 UTC] PHP Fatal error:  require(): Failed opening required 'classes/AutoLoad.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ios/getRest.php on line 2
+[07-Feb-2018 07:58:34 UTC] PHP Stack trace:
+[07-Feb-2018 07:58:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/ios/getRest.php:0
+[07-Feb-2018 11:14:15 Europe/Madrid] PHP Warning:  require(clases/vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/IosPanaderia/api.php on line 35
+[07-Feb-2018 11:14:15 Europe/Madrid] PHP Stack trace:
+[07-Feb-2018 11:14:15 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 11:14:15 Europe/Madrid] PHP Fatal error:  require(): Failed opening required 'clases/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/IosPanaderia/api.php on line 35
+[07-Feb-2018 11:14:15 Europe/Madrid] PHP Stack trace:
+[07-Feb-2018 11:14:15 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 13:33:49 Europe/Madrid] PHP Fatal error:  Class 'Rest' not found in /home/ubuntu/workspace/IosPanaderia/api.php on line 12
+[07-Feb-2018 13:33:49 Europe/Madrid] PHP Stack trace:
+[07-Feb-2018 13:33:49 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 13:35:41 Europe/Madrid] PHP Fatal error:  Class 'Rest' not found in /home/ubuntu/workspace/IosPanaderia/api.php on line 12
+[07-Feb-2018 13:35:41 Europe/Madrid] PHP Stack trace:
+[07-Feb-2018 13:35:41 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 13:37:26 Europe/Madrid] PHP Fatal error:  Class 'Rest' not found in /home/ubuntu/workspace/IosPanaderia/api.php on line 12
+[07-Feb-2018 13:37:26 Europe/Madrid] PHP Stack trace:
+[07-Feb-2018 13:37:26 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 12:43:06 UTC] PHP Warning:  require_once(Clases/Rest.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/IosPanaderia/api.php on line 2
+[07-Feb-2018 12:43:06 UTC] PHP Stack trace:
+[07-Feb-2018 12:43:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 12:43:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'Clases/Rest.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/IosPanaderia/api.php on line 2
+[07-Feb-2018 12:43:06 UTC] PHP Stack trace:
+[07-Feb-2018 12:43:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 12:43:47 UTC] PHP Warning:  require_once(Clases\Rest.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/IosPanaderia/api.php on line 2
+[07-Feb-2018 12:43:47 UTC] PHP Stack trace:
+[07-Feb-2018 12:43:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 12:43:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'Clases\Rest.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/IosPanaderia/api.php on line 2
+[07-Feb-2018 12:43:47 UTC] PHP Stack trace:
+[07-Feb-2018 12:43:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 12:44:16 UTC] PHP Warning:  require_once(/Clases/Rest.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/IosPanaderia/api.php on line 2
+[07-Feb-2018 12:44:16 UTC] PHP Stack trace:
+[07-Feb-2018 12:44:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 12:44:16 UTC] PHP Fatal error:  require_once(): Failed opening required '/Clases/Rest.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/IosPanaderia/api.php on line 2
+[07-Feb-2018 12:44:16 UTC] PHP Stack trace:
+[07-Feb-2018 12:44:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 12:45:03 UTC] PHP Warning:  require(Clases/Rest.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/IosPanaderia/api.php on line 2
+[07-Feb-2018 12:45:03 UTC] PHP Stack trace:
+[07-Feb-2018 12:45:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 12:45:03 UTC] PHP Fatal error:  require(): Failed opening required 'Clases/Rest.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/IosPanaderia/api.php on line 2
+[07-Feb-2018 12:45:03 UTC] PHP Stack trace:
+[07-Feb-2018 12:45:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 12:45:40 UTC] PHP Warning:  require(./Clases/Rest.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/IosPanaderia/api.php on line 2
+[07-Feb-2018 12:45:40 UTC] PHP Stack trace:
+[07-Feb-2018 12:45:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 12:45:40 UTC] PHP Fatal error:  require(): Failed opening required './Clases/Rest.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/IosPanaderia/api.php on line 2
+[07-Feb-2018 12:45:40 UTC] PHP Stack trace:
+[07-Feb-2018 12:45:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 12:46:11 UTC] PHP Warning:  require(/IosPanaderia/Clases/vendor/Rest.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/IosPanaderia/api.php on line 2
+[07-Feb-2018 12:46:11 UTC] PHP Stack trace:
+[07-Feb-2018 12:46:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 12:46:11 UTC] PHP Fatal error:  require(): Failed opening required '/IosPanaderia/Clases/vendor/Rest.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/IosPanaderia/api.php on line 2
+[07-Feb-2018 12:46:11 UTC] PHP Stack trace:
+[07-Feb-2018 12:46:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 13:48:50 Europe/Madrid] PHP Fatal error:  Cannot access private property Rest::$method in /home/ubuntu/workspace/IosPanaderia/api.php on line 15
+[07-Feb-2018 13:48:50 Europe/Madrid] PHP Stack trace:
+[07-Feb-2018 13:48:50 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 14:02:08 Europe/Madrid] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/IosPanaderia/api.php on line 29
+[07-Feb-2018 14:02:08 Europe/Madrid] PHP Stack trace:
+[07-Feb-2018 14:02:08 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 14:02:55 Europe/Madrid] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/IosPanaderia/api.php on line 30
+[07-Feb-2018 14:02:55 Europe/Madrid] PHP Stack trace:
+[07-Feb-2018 14:02:55 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 14:04:20 Europe/Madrid] PHP Notice:  Undefined variable: method in /home/ubuntu/workspace/IosPanaderia/api.php on line 60
+[07-Feb-2018 14:04:20 Europe/Madrid] PHP Stack trace:
+[07-Feb-2018 14:04:20 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 14:04:20 Europe/Madrid] PHP Notice:  Undefined variable: method in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[07-Feb-2018 14:04:20 Europe/Madrid] PHP Stack trace:
+[07-Feb-2018 14:04:20 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 14:15:10 Europe/Madrid] PHP Notice:  Undefined variable: peticion in /home/ubuntu/workspace/IosPanaderia/api.php on line 69
+[07-Feb-2018 14:15:10 Europe/Madrid] PHP Stack trace:
+[07-Feb-2018 14:15:10 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 14:15:10 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:59
+[07-Feb-2018 14:15:10 Europe/Madrid] PHP Fatal error:  Call to a member function getHeader() on a non-object in /home/ubuntu/workspace/IosPanaderia/api.php on line 69
+[07-Feb-2018 14:15:10 Europe/Madrid] PHP Stack trace:
+[07-Feb-2018 14:15:10 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Feb-2018 14:15:10 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:59
+[13-Feb-2018 10:03:24 UTC] PHP Warning:  require(Clases/RestAuthorization.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/IosPanaderia/api.php on line 3
+[13-Feb-2018 10:03:24 UTC] PHP Stack trace:
+[13-Feb-2018 10:03:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 10:03:24 UTC] PHP Fatal error:  require(): Failed opening required 'Clases/RestAuthorization.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/IosPanaderia/api.php on line 3
+[13-Feb-2018 10:03:24 UTC] PHP Stack trace:
+[13-Feb-2018 10:03:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 10:04:08 UTC] PHP Fatal error:  Class 'RestAuthorization' not found in /home/ubuntu/workspace/IosPanaderia/api.php on line 19
+[13-Feb-2018 10:04:08 UTC] PHP Stack trace:
+[13-Feb-2018 10:04:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 10:05:03 UTC] PHP Fatal error:  Class 'RestAutorizacion' not found in /home/ubuntu/workspace/IosPanaderia/api.php on line 19
+[13-Feb-2018 10:05:03 UTC] PHP Stack trace:
+[13-Feb-2018 10:05:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 10:05:30 UTC] PHP Fatal error:  Class 'RestAutorizacion' not found in /home/ubuntu/workspace/IosPanaderia/api.php on line 19
+[13-Feb-2018 10:05:30 UTC] PHP Stack trace:
+[13-Feb-2018 10:05:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 10:05:49 UTC] PHP Fatal error:  Class 'RestAutorizacion' not found in /home/ubuntu/workspace/IosPanaderia/api.php on line 19
+[13-Feb-2018 10:05:49 UTC] PHP Stack trace:
+[13-Feb-2018 10:05:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 10:11:01 UTC] PHP Fatal error:  Class 'RestAutorizacion' not found in /home/ubuntu/workspace/IosPanaderia/api.php on line 19
+[13-Feb-2018 10:11:01 UTC] PHP Stack trace:
+[13-Feb-2018 10:11:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 10:12:08 UTC] PHP Fatal error:  Class 'RestAutorizacion' not found in /home/ubuntu/workspace/IosPanaderia/api.php on line 20
+[13-Feb-2018 10:12:08 UTC] PHP Stack trace:
+[13-Feb-2018 10:12:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 10:53:47 UTC] PHP Fatal error:  Class 'RestAutorizacion' not found in /home/ubuntu/workspace/IosPanaderia/api.php on line 19
+[13-Feb-2018 10:53:47 UTC] PHP Stack trace:
+[13-Feb-2018 10:53:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 11:23:13 UTC] PHP Fatal error:  Class 'RestAutorizacion' not found in /home/ubuntu/workspace/IosPanaderia/api.php on line 20
+[13-Feb-2018 11:23:13 UTC] PHP Stack trace:
+[13-Feb-2018 11:23:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 11:28:51 UTC] PHP Fatal error:  Class 'RestAutorizacion' not found in /home/ubuntu/workspace/IosPanaderia/api.php on line 19
+[13-Feb-2018 11:28:51 UTC] PHP Stack trace:
+[13-Feb-2018 11:28:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 12:30:14 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 34
+[13-Feb-2018 12:30:14 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 12:30:14 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 12:30:14 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:22
+[13-Feb-2018 12:30:14 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 34
+[13-Feb-2018 12:30:14 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 12:30:14 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 12:30:14 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:22
+[13-Feb-2018 12:34:32 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 34
+[13-Feb-2018 12:34:32 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 12:34:32 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 12:34:32 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 12:34:32 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 34
+[13-Feb-2018 12:34:32 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 12:34:32 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 12:34:32 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 12:37:04 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 37
+[13-Feb-2018 12:37:04 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 12:37:04 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 12:37:04 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 12:37:04 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 37
+[13-Feb-2018 12:37:04 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 12:37:04 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 12:37:04 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 12:43:18 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 34
+[13-Feb-2018 12:43:18 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 12:43:18 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 12:43:18 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 12:43:18 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 34
+[13-Feb-2018 12:43:18 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 12:43:18 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 12:43:18 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 12:44:45 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 34
+[13-Feb-2018 12:44:45 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 12:44:45 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 12:44:45 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 12:44:45 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 34
+[13-Feb-2018 12:44:45 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 12:44:45 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 12:44:45 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 12:49:28 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 34
+[13-Feb-2018 12:49:28 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 12:49:28 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 12:49:28 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 12:49:28 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 34
+[13-Feb-2018 12:49:28 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 12:49:28 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 12:49:28 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 12:52:58 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 34
+[13-Feb-2018 12:52:58 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 12:52:58 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 12:52:58 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 12:52:58 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 34
+[13-Feb-2018 12:52:58 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 12:52:58 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 12:52:58 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 13:14:41 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 52
+[13-Feb-2018 13:14:41 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:14:41 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:14:41 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 13:14:41 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 52
+[13-Feb-2018 13:14:41 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:14:41 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:14:41 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 13:15:20 Europe/Madrid] PHP Notice:  Use of undefined constant self - assumed 'self' in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 52
+[13-Feb-2018 13:15:20 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:15:20 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:15:20 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 13:15:20 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 52
+[13-Feb-2018 13:15:20 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:15:20 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:15:20 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 13:15:20 Europe/Madrid] PHP Notice:  Use of undefined constant self - assumed 'self' in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 52
+[13-Feb-2018 13:15:20 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:15:20 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:15:20 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 13:15:20 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 52
+[13-Feb-2018 13:15:20 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:15:20 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:15:20 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 13:17:52 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 53
+[13-Feb-2018 13:17:52 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:17:52 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:17:52 Europe/Madrid] PHP   2. RestAutorizacion->isValid() /home/ubuntu/workspace/IosPanaderia/api.php:24
+[13-Feb-2018 13:18:10 Europe/Madrid] PHP Notice:  Undefined variable: tiempoDeVida in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 18
+[13-Feb-2018 13:18:10 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:18:10 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:18:10 Europe/Madrid] PHP   2. RestAutorizacion->createToken() /home/ubuntu/workspace/IosPanaderia/api.php:27
+[13-Feb-2018 13:18:10 Europe/Madrid] PHP Notice:  Undefined variable: token in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 19
+[13-Feb-2018 13:18:10 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:18:10 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:18:10 Europe/Madrid] PHP   2. RestAutorizacion->createToken() /home/ubuntu/workspace/IosPanaderia/api.php:27
+[13-Feb-2018 13:18:10 Europe/Madrid] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 19
+[13-Feb-2018 13:18:10 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:18:10 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:18:10 Europe/Madrid] PHP   2. RestAutorizacion->createToken() /home/ubuntu/workspace/IosPanaderia/api.php:27
+[13-Feb-2018 13:18:47 Europe/Madrid] PHP Strict standards:  Accessing static property RestAutorizacion::$tiempoDeVida as non static in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 18
+[13-Feb-2018 13:18:47 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:18:47 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:18:47 Europe/Madrid] PHP   2. RestAutorizacion->createToken() /home/ubuntu/workspace/IosPanaderia/api.php:27
+[13-Feb-2018 13:18:47 Europe/Madrid] PHP Notice:  Undefined property: RestAutorizacion::$tiempoDeVida in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 18
+[13-Feb-2018 13:18:47 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:18:47 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:18:47 Europe/Madrid] PHP   2. RestAutorizacion->createToken() /home/ubuntu/workspace/IosPanaderia/api.php:27
+[13-Feb-2018 13:18:47 Europe/Madrid] PHP Notice:  Undefined variable: token in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 19
+[13-Feb-2018 13:18:47 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:18:47 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:18:47 Europe/Madrid] PHP   2. RestAutorizacion->createToken() /home/ubuntu/workspace/IosPanaderia/api.php:27
+[13-Feb-2018 13:18:47 Europe/Madrid] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 19
+[13-Feb-2018 13:18:47 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:18:47 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:18:47 Europe/Madrid] PHP   2. RestAutorizacion->createToken() /home/ubuntu/workspace/IosPanaderia/api.php:27
+[13-Feb-2018 12:19:12 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 18
+[13-Feb-2018 12:19:12 UTC] PHP Stack trace:
+[13-Feb-2018 12:19:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:19:33 Europe/Madrid] PHP Notice:  Undefined variable: token in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 19
+[13-Feb-2018 13:19:33 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:19:33 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:19:33 Europe/Madrid] PHP   2. RestAutorizacion->createToken() /home/ubuntu/workspace/IosPanaderia/api.php:27
+[13-Feb-2018 13:19:33 Europe/Madrid] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 19
+[13-Feb-2018 13:19:33 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:19:33 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:19:33 Europe/Madrid] PHP   2. RestAutorizacion->createToken() /home/ubuntu/workspace/IosPanaderia/api.php:27
+[13-Feb-2018 13:20:09 Europe/Madrid] PHP Fatal error:  Call to undefined function getUser() in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 19
+[13-Feb-2018 13:20:09 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:20:09 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:20:09 Europe/Madrid] PHP   2. RestAutorizacion->createToken() /home/ubuntu/workspace/IosPanaderia/api.php:27
+[13-Feb-2018 13:20:21 Europe/Madrid] PHP Notice:  Undefined variable: key in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 21
+[13-Feb-2018 13:20:21 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:20:21 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:20:21 Europe/Madrid] PHP   2. RestAutorizacion->createToken() /home/ubuntu/workspace/IosPanaderia/api.php:27
+[13-Feb-2018 13:35:14 Europe/Madrid] PHP Notice:  Undefined variable: trozos in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 25
+[13-Feb-2018 13:35:14 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:35:14 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:35:14 Europe/Madrid] PHP   2. RestAutorizacion->getDecodedToken() /home/ubuntu/workspace/IosPanaderia/api.php:36
+[13-Feb-2018 13:35:14 Europe/Madrid] PHP Notice:  Undefined variable: key in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 25
+[13-Feb-2018 13:35:14 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:35:14 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:35:14 Europe/Madrid] PHP   2. RestAutorizacion->getDecodedToken() /home/ubuntu/workspace/IosPanaderia/api.php:36
+[13-Feb-2018 13:35:41 Europe/Madrid] PHP Notice:  Undefined variable: key in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 25
+[13-Feb-2018 13:35:41 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:35:41 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:35:41 Europe/Madrid] PHP   2. RestAutorizacion->getDecodedToken() /home/ubuntu/workspace/IosPanaderia/api.php:36
+[13-Feb-2018 13:35:54 Europe/Madrid] PHP Warning:  Missing argument 1 for RestAutorizacion::isExpiredToken(), called in /home/ubuntu/workspace/IosPanaderia/api.php on line 38 and defined in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 49
+[13-Feb-2018 13:35:54 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:35:54 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:35:54 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[13-Feb-2018 13:35:54 Europe/Madrid] PHP Notice:  Undefined variable: token in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 51
+[13-Feb-2018 13:35:54 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:35:54 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:35:54 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[13-Feb-2018 13:35:54 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 51
+[13-Feb-2018 13:35:54 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:35:54 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:35:54 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[13-Feb-2018 13:36:55 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 51
+[13-Feb-2018 13:36:55 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 13:36:55 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 13:36:55 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[13-Feb-2018 12:58:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[13-Feb-2018 13:33:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[13-Feb-2018 13:33:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/ubuntu/workspace/IosPanaderia/api.php on line 54
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/ubuntu/workspace/IosPanaderia/api.php on line 54
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /home/ubuntu/workspace/IosPanaderia/api.php on line 54
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /home/ubuntu/workspace/IosPanaderia/api.php on line 54
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/IosPanaderia/api.php on line 54
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP   2. mysqli_connect() /home/ubuntu/workspace/IosPanaderia/api.php:54
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/IosPanaderia/api.php on line 54
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:34:05 Europe/Madrid] PHP   2. mysqli_connect() /home/ubuntu/workspace/IosPanaderia/api.php:54
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP Notice:  Undefined variable: dbc in /home/ubuntu/workspace/IosPanaderia/api.php on line 60
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:46
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/IosPanaderia/api.php on line 60
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:46
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP   3. mysqli_query() /home/ubuntu/workspace/IosPanaderia/api.php:60
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/IosPanaderia/api.php on line 61
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:46
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/IosPanaderia/api.php:61
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP Notice:  Undefined variable: salida in /home/ubuntu/workspace/IosPanaderia/api.php on line 64
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:34:52 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:46
+[13-Feb-2018 14:35:45 Europe/Madrid] PHP Notice:  Undefined variable: salida in /home/ubuntu/workspace/IosPanaderia/api.php on line 61
+[13-Feb-2018 14:35:45 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:35:45 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:35:45 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:46
+[13-Feb-2018 14:35:45 Europe/Madrid] PHP Fatal error:  Unsupported operand types in /home/ubuntu/workspace/IosPanaderia/api.php on line 61
+[13-Feb-2018 14:35:45 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:35:45 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:35:45 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:46
+[13-Feb-2018 14:36:03 Europe/Madrid] PHP Fatal error:  Unsupported operand types in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[13-Feb-2018 14:36:03 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:36:03 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:36:03 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:46
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:46
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:46
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:46
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:46
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:46
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:46
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:46
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP Stack trace:
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[13-Feb-2018 14:36:19 Europe/Madrid] PHP   2. op1() /home/ubuntu/workspace/IosPanaderia/api.php:46
+[14-Feb-2018 12:10:57 Europe/Madrid] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/IosPanaderia/api.php on line 87
+[14-Feb-2018 12:10:57 Europe/Madrid] PHP Stack trace:
+[14-Feb-2018 12:10:57 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[14-Feb-2018 12:10:57 Europe/Madrid] PHP   2. isCorrectLogin() /home/ubuntu/workspace/IosPanaderia/api.php:27
+[14-Feb-2018 12:10:57 Europe/Madrid] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/IosPanaderia/api.php:87
+[14-Feb-2018 12:11:43 Europe/Madrid] PHP Fatal error:  Call to undefined function getProductos() in /home/ubuntu/workspace/IosPanaderia/api.php on line 47
+[14-Feb-2018 12:11:43 Europe/Madrid] PHP Stack trace:
+[14-Feb-2018 12:11:43 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[14-Feb-2018 12:47:34 Europe/Madrid] PHP Fatal error:  Class 'Util' not found in /home/ubuntu/workspace/IosPanaderia/Clases/Rest.php on line 22
+[14-Feb-2018 12:47:34 Europe/Madrid] PHP Stack trace:
+[14-Feb-2018 12:47:34 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[14-Feb-2018 12:47:34 Europe/Madrid] PHP   2. Rest->__construct() /home/ubuntu/workspace/IosPanaderia/api.php:15
+[14-Feb-2018 11:48:30 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/ubuntu/workspace/IosPanaderia/Clases/Rest.php on line 3
+[14-Feb-2018 11:48:30 UTC] PHP Stack trace:
+[14-Feb-2018 11:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[15-Feb-2018 10:34:39 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 55
+[15-Feb-2018 10:34:39 Europe/Madrid] PHP Stack trace:
+[15-Feb-2018 10:34:39 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[15-Feb-2018 10:34:39 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:39
+[21-Feb-2018 10:39:53 Europe/Madrid] PHP Notice:  Undefined property: Rest::$getRoute in /home/ubuntu/workspace/IosPanaderia/api.php on line 27
+[21-Feb-2018 10:39:53 Europe/Madrid] PHP Stack trace:
+[21-Feb-2018 10:39:53 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[21-Feb-2018 12:09:20 UTC] PHP Warning:  require(classes/AutoLoad.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ios/getRest.php on line 2
+[21-Feb-2018 12:09:20 UTC] PHP Stack trace:
+[21-Feb-2018 12:09:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/ios/getRest.php:0
+[21-Feb-2018 12:09:20 UTC] PHP Fatal error:  require(): Failed opening required 'classes/AutoLoad.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ios/getRest.php on line 2
+[21-Feb-2018 12:09:20 UTC] PHP Stack trace:
+[21-Feb-2018 12:09:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/ios/getRest.php:0
+[22-Feb-2018 05:35:55 UTC] PHP Warning:  require(classes/AutoLoad.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ios/getRest.php on line 2
+[22-Feb-2018 05:35:55 UTC] PHP Stack trace:
+[22-Feb-2018 05:35:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/ios/getRest.php:0
+[22-Feb-2018 05:35:55 UTC] PHP Fatal error:  require(): Failed opening required 'classes/AutoLoad.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ios/getRest.php on line 2
+[22-Feb-2018 05:35:55 UTC] PHP Stack trace:
+[22-Feb-2018 05:35:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/ios/getRest.php:0
+[22-Feb-2018 05:35:59 UTC] PHP Warning:  require(classes/AutoLoad.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ios/getRest.php on line 2
+[22-Feb-2018 05:35:59 UTC] PHP Stack trace:
+[22-Feb-2018 05:35:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/ios/getRest.php:0
+[22-Feb-2018 05:35:59 UTC] PHP Fatal error:  require(): Failed opening required 'classes/AutoLoad.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ios/getRest.php on line 2
+[22-Feb-2018 05:35:59 UTC] PHP Stack trace:
+[22-Feb-2018 05:35:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/ios/getRest.php:0
+[22-Feb-2018 09:40:30 Europe/Madrid] PHP Notice:  Undefined variable: respuesta in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[22-Feb-2018 09:40:30 Europe/Madrid] PHP Stack trace:
+[22-Feb-2018 09:40:30 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[22-Feb-2018 09:43:53 Europe/Madrid] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, string given in /home/ubuntu/workspace/IosPanaderia/api.php on line 71
+[22-Feb-2018 09:43:53 Europe/Madrid] PHP Stack trace:
+[22-Feb-2018 09:43:53 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[22-Feb-2018 09:43:53 Europe/Madrid] PHP   2. utf8_converter() /home/ubuntu/workspace/IosPanaderia/api.php:56
+[22-Feb-2018 09:43:53 Europe/Madrid] PHP   3. array_walk_recursive() /home/ubuntu/workspace/IosPanaderia/api.php:71
+[27-Feb-2018 09:46:18 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 55
+[27-Feb-2018 09:46:18 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 09:46:18 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 09:46:18 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[27-Feb-2018 10:09:18 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 55
+[27-Feb-2018 10:09:18 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 10:09:18 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 10:09:18 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[27-Feb-2018 10:13:48 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 55
+[27-Feb-2018 10:13:48 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 10:13:48 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 10:13:48 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[27-Feb-2018 10:15:23 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 55
+[27-Feb-2018 10:15:23 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 10:15:23 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 10:15:23 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[27-Feb-2018 10:53:18 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 55
+[27-Feb-2018 10:53:18 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 10:53:18 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 10:53:18 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[27-Feb-2018 10:54:50 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 55
+[27-Feb-2018 10:54:50 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 10:54:50 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 10:54:50 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[27-Feb-2018 10:04:14 UTC] PHP Parse error:  syntax error, unexpected '"-"' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 81
+[27-Feb-2018 10:04:15 UTC] PHP Parse error:  syntax error, unexpected '"-"' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 81
+[27-Feb-2018 10:06:10 UTC] PHP Parse error:  syntax error, unexpected '"-"' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 81
+[27-Feb-2018 10:06:11 UTC] PHP Parse error:  syntax error, unexpected '"-"' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 81
+[27-Feb-2018 10:06:19 UTC] PHP Parse error:  syntax error, unexpected '"-"' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 81
+[27-Feb-2018 10:06:28 UTC] PHP Parse error:  syntax error, unexpected '"-"' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 81
+[27-Feb-2018 11:53:40 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 55
+[27-Feb-2018 11:53:40 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 11:53:40 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 11:53:40 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[27-Feb-2018 11:58:20 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 55
+[27-Feb-2018 11:58:20 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 11:58:20 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 11:58:20 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[27-Feb-2018 11:58:43 Europe/Madrid] PHP Notice:  Undefined variable: respuesta in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[27-Feb-2018 11:58:43 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 11:58:43 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 11:58:43 Europe/Madrid] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/ubuntu/workspace/IosPanaderia/api.php on line 70
+[27-Feb-2018 11:58:43 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 11:58:43 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 11:58:43 Europe/Madrid] PHP   2. utf8_converter() /home/ubuntu/workspace/IosPanaderia/api.php:62
+[27-Feb-2018 11:58:43 Europe/Madrid] PHP   3. array_walk_recursive() /home/ubuntu/workspace/IosPanaderia/api.php:70
+[27-Feb-2018 11:58:54 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 55
+[27-Feb-2018 11:58:54 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 11:58:54 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 11:58:54 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[27-Feb-2018 11:58:58 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 55
+[27-Feb-2018 11:58:58 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 11:58:58 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 11:58:58 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[27-Feb-2018 11:59:02 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 55
+[27-Feb-2018 11:59:02 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 11:59:02 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 11:59:02 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[27-Feb-2018 11:59:42 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 55
+[27-Feb-2018 11:59:42 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 11:59:42 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 11:59:42 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[27-Feb-2018 11:01:34 UTC] PHP Warning:  require(classes/AutoLoad.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ios/getRest.php on line 2
+[27-Feb-2018 11:01:34 UTC] PHP Stack trace:
+[27-Feb-2018 11:01:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/ios/getRest.php:0
+[27-Feb-2018 11:01:34 UTC] PHP Fatal error:  require(): Failed opening required 'classes/AutoLoad.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ios/getRest.php on line 2
+[27-Feb-2018 11:01:34 UTC] PHP Stack trace:
+[27-Feb-2018 11:01:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/ios/getRest.php:0
+[27-Feb-2018 12:01:59 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 55
+[27-Feb-2018 12:01:59 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:01:59 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:01:59 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[27-Feb-2018 12:02:02 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 55
+[27-Feb-2018 12:02:02 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:02:02 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:02:02 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[27-Feb-2018 12:02:07 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/Clases/RestAutorizacion.php on line 55
+[27-Feb-2018 12:02:07 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:02:07 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:02:07 Europe/Madrid] PHP   2. RestAutorizacion->isExpiredToken() /home/ubuntu/workspace/IosPanaderia/api.php:38
+[27-Feb-2018 12:04:01 Europe/Madrid] PHP Notice:  Undefined variable: respuesta in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[27-Feb-2018 12:04:01 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:04:01 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:04:01 Europe/Madrid] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/ubuntu/workspace/IosPanaderia/api.php on line 70
+[27-Feb-2018 12:04:01 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:04:01 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:04:01 Europe/Madrid] PHP   2. utf8_converter() /home/ubuntu/workspace/IosPanaderia/api.php:62
+[27-Feb-2018 12:04:01 Europe/Madrid] PHP   3. array_walk_recursive() /home/ubuntu/workspace/IosPanaderia/api.php:70
+[27-Feb-2018 12:04:15 Europe/Madrid] PHP Notice:  Undefined variable: respuesta in /home/ubuntu/workspace/IosPanaderia/api.php on line 62
+[27-Feb-2018 12:04:15 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:04:15 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:04:15 Europe/Madrid] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/ubuntu/workspace/IosPanaderia/api.php on line 70
+[27-Feb-2018 12:04:15 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:04:15 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:04:15 Europe/Madrid] PHP   2. utf8_converter() /home/ubuntu/workspace/IosPanaderia/api.php:62
+[27-Feb-2018 12:04:15 Europe/Madrid] PHP   3. array_walk_recursive() /home/ubuntu/workspace/IosPanaderia/api.php:70
+[27-Feb-2018 12:10:04 Europe/Madrid] PHP Notice:  Undefined index: categoria in /home/ubuntu/workspace/IosPanaderia/api.php on line 61
+[27-Feb-2018 12:10:04 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:10:04 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:13:17 Europe/Madrid] PHP Fatal error:  Cannot access private property Rest::$json in /home/ubuntu/workspace/IosPanaderia/api.php on line 61
+[27-Feb-2018 12:13:17 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:13:17 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:13:45 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 61
+[27-Feb-2018 12:13:45 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:13:45 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:14:05 Europe/Madrid] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/ubuntu/workspace/IosPanaderia/api.php on line 61
+[27-Feb-2018 12:14:05 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:14:05 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:14:05 Europe/Madrid] PHP   2. json_decode() /home/ubuntu/workspace/IosPanaderia/api.php:61
+[27-Feb-2018 12:36:55 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 64
+[27-Feb-2018 12:36:55 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:36:55 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:37:36 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 64
+[27-Feb-2018 12:37:36 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:37:36 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:38:13 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 64
+[27-Feb-2018 12:38:13 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:38:13 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:38:40 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 64
+[27-Feb-2018 12:38:40 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:38:40 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:39:09 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 65
+[27-Feb-2018 12:39:09 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:39:09 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:39:37 Europe/Madrid] PHP Notice:  Undefined index: id in /home/ubuntu/workspace/IosPanaderia/api.php on line 64
+[27-Feb-2018 12:39:37 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:39:37 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:39:53 Europe/Madrid] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/IosPanaderia/api.php on line 64
+[27-Feb-2018 12:39:53 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:39:53 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:40:51 Europe/Madrid] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, array given in /home/ubuntu/workspace/IosPanaderia/api.php on line 64
+[27-Feb-2018 12:40:51 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:40:51 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:40:51 Europe/Madrid] PHP   2. file_get_contents() /home/ubuntu/workspace/IosPanaderia/api.php:64
+[27-Feb-2018 12:41:22 Europe/Madrid] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/ubuntu/workspace/IosPanaderia/api.php on line 64
+[27-Feb-2018 12:41:22 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:41:22 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:41:22 Europe/Madrid] PHP   2. json_decode() /home/ubuntu/workspace/IosPanaderia/api.php:64
+[27-Feb-2018 12:41:45 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/api.php on line 64
+[27-Feb-2018 12:41:45 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:41:45 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:41:59 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 64
+[27-Feb-2018 12:41:59 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:41:59 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:42:22 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 65
+[27-Feb-2018 12:42:22 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:42:22 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:43:54 Europe/Madrid] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/IosPanaderia/api.php on line 65
+[27-Feb-2018 12:43:54 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:43:54 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:45:25 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 64
+[27-Feb-2018 12:45:25 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:45:25 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:46:37 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 65
+[27-Feb-2018 12:46:37 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:46:37 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:48:23 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 69
+[27-Feb-2018 12:48:23 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:48:23 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 12:48:23 Europe/Madrid] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/IosPanaderia/api.php on line 69
+[27-Feb-2018 12:48:23 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 12:48:23 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 13:07:18 Europe/Madrid] PHP Warning:  Illegal string offset 'date' in /home/ubuntu/workspace/IosPanaderia/api.php on line 66
+[27-Feb-2018 13:07:18 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 13:07:18 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 13:20:45 Europe/Madrid] PHP Warning:  Missing argument 4 for ticket::__construct(), called in /home/ubuntu/workspace/IosPanaderia/api.php on line 64 and defined in /home/ubuntu/workspace/IosPanaderia/Clases/ClasesTicket/ticket.php on line 6
+[27-Feb-2018 13:20:45 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 13:20:45 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 13:20:45 Europe/Madrid] PHP   2. ticket->__construct() /home/ubuntu/workspace/IosPanaderia/api.php:64
+[27-Feb-2018 13:20:45 Europe/Madrid] PHP Notice:  Undefined variable: idclient in /home/ubuntu/workspace/IosPanaderia/Clases/ClasesTicket/ticket.php on line 10
+[27-Feb-2018 13:20:45 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 13:20:45 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 13:20:45 Europe/Madrid] PHP   2. ticket->__construct() /home/ubuntu/workspace/IosPanaderia/api.php:64
+[27-Feb-2018 13:22:24 Europe/Madrid] PHP Warning:  array_push() expects parameter 1 to be array, object given in /home/ubuntu/workspace/IosPanaderia/api.php on line 69
+[27-Feb-2018 13:22:24 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 13:22:24 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 13:22:24 Europe/Madrid] PHP   2. array_push() /home/ubuntu/workspace/IosPanaderia/api.php:69
+[27-Feb-2018 13:22:24 Europe/Madrid] PHP Warning:  array_push() expects parameter 1 to be array, object given in /home/ubuntu/workspace/IosPanaderia/api.php on line 69
+[27-Feb-2018 13:22:24 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 13:22:24 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 13:22:24 Europe/Madrid] PHP   2. array_push() /home/ubuntu/workspace/IosPanaderia/api.php:69
+[27-Feb-2018 12:22:37 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/ubuntu/workspace/IosPanaderia/api.php on line 67
+[27-Feb-2018 13:22:56 Europe/Madrid] PHP Warning:  array_push() expects parameter 1 to be array, object given in /home/ubuntu/workspace/IosPanaderia/api.php on line 69
+[27-Feb-2018 13:22:56 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 13:22:56 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 13:22:56 Europe/Madrid] PHP   2. array_push() /home/ubuntu/workspace/IosPanaderia/api.php:69
+[27-Feb-2018 13:22:56 Europe/Madrid] PHP Warning:  array_push() expects parameter 1 to be array, object given in /home/ubuntu/workspace/IosPanaderia/api.php on line 69
+[27-Feb-2018 13:22:56 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 13:22:56 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 13:22:56 Europe/Madrid] PHP   2. array_push() /home/ubuntu/workspace/IosPanaderia/api.php:69
+[27-Feb-2018 12:23:59 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/ubuntu/workspace/IosPanaderia/api.php on line 67
+[27-Feb-2018 12:25:14 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/ubuntu/workspace/IosPanaderia/api.php on line 70
+[27-Feb-2018 12:25:37 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/ubuntu/workspace/IosPanaderia/api.php on line 70
+[27-Feb-2018 13:25:45 Europe/Madrid] PHP Fatal error:  Class 'ticketdetail' not found in /home/ubuntu/workspace/IosPanaderia/api.php on line 69
+[27-Feb-2018 13:25:45 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 13:25:45 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 13:26:00 Europe/Madrid] PHP Warning:  array_push() expects parameter 1 to be array, object given in /home/ubuntu/workspace/IosPanaderia/api.php on line 70
+[27-Feb-2018 13:26:00 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 13:26:00 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 13:26:00 Europe/Madrid] PHP   2. array_push() /home/ubuntu/workspace/IosPanaderia/api.php:70
+[27-Feb-2018 13:26:00 Europe/Madrid] PHP Warning:  array_push() expects parameter 1 to be array, object given in /home/ubuntu/workspace/IosPanaderia/api.php on line 70
+[27-Feb-2018 13:26:00 Europe/Madrid] PHP Stack trace:
+[27-Feb-2018 13:26:00 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[27-Feb-2018 13:26:00 Europe/Madrid] PHP   2. array_push() /home/ubuntu/workspace/IosPanaderia/api.php:70
+[27-Feb-2018 12:49:01 UTC] PHP Parse error:  syntax error, unexpected '$ticketClase' (T_VARIABLE) in /home/ubuntu/workspace/IosPanaderia/api.php on line 77
+[01-Mar-2018 08:50:57 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/IosPanaderia/api.php on line 122
+[01-Mar-2018 08:50:57 Europe/Madrid] PHP Stack trace:
+[01-Mar-2018 08:50:57 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[01-Mar-2018 08:50:57 Europe/Madrid] PHP   2. getTicketsDetail() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[01-Mar-2018 12:09:13 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/IosPanaderia/api.php on line 125
+[01-Mar-2018 12:09:13 Europe/Madrid] PHP Stack trace:
+[01-Mar-2018 12:09:13 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[01-Mar-2018 12:09:13 Europe/Madrid] PHP   2. getTicketsDetail() /home/ubuntu/workspace/IosPanaderia/api.php:94
+[02-Mar-2018 11:15:31 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/IosPanaderia/api.php on line 127
+[02-Mar-2018 11:15:31 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 11:15:31 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 11:15:31 Europe/Madrid] PHP   2. getTicketsDetail() /home/ubuntu/workspace/IosPanaderia/api.php:95
+[02-Mar-2018 10:50:34 UTC] PHP Parse error:  syntax error, unexpected 'insertTicket' (T_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 98
+[02-Mar-2018 10:50:48 UTC] PHP Parse error:  syntax error, unexpected 'insertTicket' (T_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 98
+[02-Mar-2018 10:50:51 UTC] PHP Parse error:  syntax error, unexpected 'insertTicket' (T_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 98
+[02-Mar-2018 10:52:23 UTC] PHP Parse error:  syntax error, unexpected 'insertTicket' (T_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 98
+[02-Mar-2018 10:52:38 UTC] PHP Parse error:  syntax error, unexpected 'insertTicket' (T_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 98
+[02-Mar-2018 10:54:23 UTC] PHP Parse error:  syntax error, unexpected 'insertTicket' (T_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 98
+[02-Mar-2018 10:54:24 UTC] PHP Parse error:  syntax error, unexpected 'insertTicket' (T_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 98
+[02-Mar-2018 10:54:26 UTC] PHP Parse error:  syntax error, unexpected 'insertTicket' (T_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 98
+[02-Mar-2018 10:55:30 UTC] PHP Parse error:  syntax error, unexpected 'insertTicket' (T_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 98
+[02-Mar-2018 10:55:30 UTC] PHP Parse error:  syntax error, unexpected 'insertTicket' (T_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 98
+[02-Mar-2018 10:55:32 UTC] PHP Parse error:  syntax error, unexpected 'insertTicket' (T_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 98
+[02-Mar-2018 10:56:11 UTC] PHP Parse error:  syntax error, unexpected 'insertTicket' (T_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 98
+[02-Mar-2018 11:00:04 UTC] PHP Parse error:  syntax error, unexpected 'insertTicket' (T_STRING) in /home/ubuntu/workspace/IosPanaderia/api.php on line 98
+[02-Mar-2018 12:09:33 Europe/Madrid] PHP Notice:  Undefined index: date in /home/ubuntu/workspace/IosPanaderia/api.php on line 96
+[02-Mar-2018 12:09:33 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 12:09:33 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 12:09:33 Europe/Madrid] PHP Notice:  Undefined property: ticket::$id in /home/ubuntu/workspace/IosPanaderia/api.php on line 111
+[02-Mar-2018 12:09:33 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 12:09:33 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 12:09:33 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:97
+[02-Mar-2018 12:13:10 Europe/Madrid] PHP Notice:  Undefined index: date in /home/ubuntu/workspace/IosPanaderia/api.php on line 96
+[02-Mar-2018 12:13:10 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 12:13:10 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 12:13:10 Europe/Madrid] PHP Notice:  Undefined property: ticket::$id in /home/ubuntu/workspace/IosPanaderia/api.php on line 111
+[02-Mar-2018 12:13:10 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 12:13:10 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 12:13:10 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:97
+[02-Mar-2018 12:14:13 Europe/Madrid] PHP Notice:  Undefined index: date in /home/ubuntu/workspace/IosPanaderia/api.php on line 96
+[02-Mar-2018 12:14:13 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 12:14:13 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 12:14:13 Europe/Madrid] PHP Notice:  Undefined property: ticket::$id in /home/ubuntu/workspace/IosPanaderia/api.php on line 111
+[02-Mar-2018 12:14:13 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 12:14:13 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 12:14:13 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:97
+[02-Mar-2018 12:30:12 Europe/Madrid] PHP Fatal error:  Call to undefined method Rest::getRouteParam() in /home/ubuntu/workspace/IosPanaderia/api.php on line 79
+[02-Mar-2018 12:30:12 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 12:30:12 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 12:32:18 Europe/Madrid] PHP Fatal error:  Call to undefined method Rest::getRouteParam() in /home/ubuntu/workspace/IosPanaderia/api.php on line 79
+[02-Mar-2018 12:32:18 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 12:32:18 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 12:33:23 Europe/Madrid] PHP Warning:  Missing argument 1 for Rest::getHeader(), called in /home/ubuntu/workspace/IosPanaderia/api.php on line 88 and defined in /home/ubuntu/workspace/IosPanaderia/Clases/Rest.php on line 44
+[02-Mar-2018 12:33:23 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 12:33:23 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 12:33:23 Europe/Madrid] PHP   2. Rest->getHeader() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[02-Mar-2018 12:33:23 Europe/Madrid] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/IosPanaderia/Clases/Rest.php on line 45
+[02-Mar-2018 12:33:23 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 12:33:23 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 12:33:23 Europe/Madrid] PHP   2. Rest->getHeader() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[02-Mar-2018 12:33:23 Europe/Madrid] PHP Notice:  Undefined property: ticket::$id in /home/ubuntu/workspace/IosPanaderia/api.php on line 138
+[02-Mar-2018 12:33:23 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 12:33:23 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 12:33:23 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:124
+[02-Mar-2018 12:37:46 Europe/Madrid] PHP Notice:  Undefined index: date in /home/ubuntu/workspace/IosPanaderia/api.php on line 123
+[02-Mar-2018 12:37:46 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 12:37:46 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 12:40:57 Europe/Madrid] PHP Notice:  Undefined index: date in /home/ubuntu/workspace/IosPanaderia/api.php on line 123
+[02-Mar-2018 12:40:57 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 12:40:57 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 12:41:07 Europe/Madrid] PHP Notice:  Undefined index: date in /home/ubuntu/workspace/IosPanaderia/api.php on line 123
+[02-Mar-2018 12:41:07 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 12:41:07 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 12:45:31 Europe/Madrid] PHP Notice:  Undefined index: date in /home/ubuntu/workspace/IosPanaderia/api.php on line 123
+[02-Mar-2018 12:45:31 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 12:45:31 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 17:35:27 Europe/Madrid] PHP Notice:  Undefined index: date in /home/ubuntu/workspace/IosPanaderia/api.php on line 122
+[02-Mar-2018 17:35:27 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 17:35:27 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 17:40:37 Europe/Madrid] PHP Notice:  Undefined variable: ticketClase in /home/ubuntu/workspace/IosPanaderia/api.php on line 121
+[02-Mar-2018 17:40:37 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 17:40:37 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 17:40:37 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/api.php on line 133
+[02-Mar-2018 17:40:37 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 17:40:37 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 17:40:37 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:121
+[02-Mar-2018 17:40:37 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/api.php on line 133
+[02-Mar-2018 17:40:37 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 17:40:37 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 17:40:37 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:121
+[02-Mar-2018 17:41:45 Europe/Madrid] PHP Notice:  Undefined variable: ticketClase in /home/ubuntu/workspace/IosPanaderia/api.php on line 121
+[02-Mar-2018 17:41:45 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 17:41:45 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 17:41:45 Europe/Madrid] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/IosPanaderia/api.php on line 133
+[02-Mar-2018 17:41:45 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 17:41:45 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 17:41:45 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:121
+[02-Mar-2018 17:43:09 Europe/Madrid] PHP Notice:  Undefined variable: ticketClase in /home/ubuntu/workspace/IosPanaderia/api.php on line 121
+[02-Mar-2018 17:43:09 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 17:43:09 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 17:43:09 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/api.php on line 133
+[02-Mar-2018 17:43:09 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 17:43:09 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 17:43:09 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:121
+[02-Mar-2018 17:43:09 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/api.php on line 133
+[02-Mar-2018 17:43:09 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 17:43:09 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 17:43:09 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:121
+[02-Mar-2018 17:44:42 Europe/Madrid] PHP Notice:  Undefined variable: ticketClase in /home/ubuntu/workspace/IosPanaderia/api.php on line 121
+[02-Mar-2018 17:44:42 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 17:44:42 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 17:44:42 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/api.php on line 133
+[02-Mar-2018 17:44:42 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 17:44:42 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 17:44:42 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:121
+[02-Mar-2018 17:44:42 Europe/Madrid] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/IosPanaderia/api.php on line 133
+[02-Mar-2018 17:44:42 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 17:44:42 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 17:44:42 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:121
+[02-Mar-2018 17:48:30 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 148
+[02-Mar-2018 17:48:30 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 17:48:30 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 17:48:30 Europe/Madrid] PHP   2. getTicket() /home/ubuntu/workspace/IosPanaderia/api.php:121
+[02-Mar-2018 17:48:48 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 148
+[02-Mar-2018 17:48:48 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 17:48:48 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 17:48:48 Europe/Madrid] PHP   2. getTicket() /home/ubuntu/workspace/IosPanaderia/api.php:121
+[02-Mar-2018 17:49:11 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 146
+[02-Mar-2018 17:49:11 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 17:49:11 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 17:49:11 Europe/Madrid] PHP   2. getTicket() /home/ubuntu/workspace/IosPanaderia/api.php:121
+[02-Mar-2018 18:01:34 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 146
+[02-Mar-2018 18:01:34 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 18:01:34 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 18:01:34 Europe/Madrid] PHP   2. getTicket() /home/ubuntu/workspace/IosPanaderia/api.php:121
+[02-Mar-2018 18:05:26 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 146
+[02-Mar-2018 18:05:26 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 18:05:26 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 18:05:26 Europe/Madrid] PHP   2. getTicket() /home/ubuntu/workspace/IosPanaderia/api.php:121
+[02-Mar-2018 18:06:20 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 146
+[02-Mar-2018 18:06:20 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 18:06:20 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 18:06:20 Europe/Madrid] PHP   2. getTicket() /home/ubuntu/workspace/IosPanaderia/api.php:121
+[02-Mar-2018 18:06:40 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 146
+[02-Mar-2018 18:06:40 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 18:06:40 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 18:06:40 Europe/Madrid] PHP   2. getTicket() /home/ubuntu/workspace/IosPanaderia/api.php:121
+[02-Mar-2018 18:14:56 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 115
+[02-Mar-2018 18:14:56 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 18:14:56 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 18:14:56 Europe/Madrid] PHP   2. getTicket() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[02-Mar-2018 18:21:51 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 115
+[02-Mar-2018 18:21:51 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 18:21:51 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 18:21:51 Europe/Madrid] PHP   2. getTicket() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[02-Mar-2018 18:30:01 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 113
+[02-Mar-2018 18:30:01 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 18:30:01 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 18:30:01 Europe/Madrid] PHP   2. getTicket() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[02-Mar-2018 18:35:16 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 113
+[02-Mar-2018 18:35:16 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 18:35:16 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 18:35:16 Europe/Madrid] PHP   2. getTicket() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[02-Mar-2018 18:37:27 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 113
+[02-Mar-2018 18:37:27 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 18:37:27 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 18:37:27 Europe/Madrid] PHP   2. getTicket() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[02-Mar-2018 18:37:57 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 113
+[02-Mar-2018 18:37:57 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 18:37:57 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 18:37:57 Europe/Madrid] PHP   2. getTicket() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[02-Mar-2018 18:38:23 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 113
+[02-Mar-2018 18:38:23 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 18:38:23 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 18:38:23 Europe/Madrid] PHP   2. getTicket() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[02-Mar-2018 18:53:26 Europe/Madrid] PHP Notice:  Undefined variable: respuesta in /home/ubuntu/workspace/IosPanaderia/api.php on line 95
+[02-Mar-2018 18:53:26 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 18:53:26 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 18:53:26 Europe/Madrid] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/ubuntu/workspace/IosPanaderia/api.php on line 126
+[02-Mar-2018 18:53:26 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 18:53:26 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 18:53:26 Europe/Madrid] PHP   2. utf8_converter() /home/ubuntu/workspace/IosPanaderia/api.php:95
+[02-Mar-2018 18:53:26 Europe/Madrid] PHP   3. array_walk_recursive() /home/ubuntu/workspace/IosPanaderia/api.php:126
+[02-Mar-2018 18:58:57 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 103
+[02-Mar-2018 18:58:57 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 18:58:57 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 18:58:57 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[02-Mar-2018 18:58:57 Europe/Madrid] PHP Notice:  Undefined index: id in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[02-Mar-2018 18:58:57 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 18:58:57 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 18:58:57 Europe/Madrid] PHP   2. insertTicketDetail() /home/ubuntu/workspace/IosPanaderia/api.php:90
+[02-Mar-2018 18:58:57 Europe/Madrid] PHP Notice:  Undefined property: detailticket::$idcproduct in /home/ubuntu/workspace/IosPanaderia/api.php on line 115
+[02-Mar-2018 18:58:57 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 18:58:57 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 18:58:57 Europe/Madrid] PHP   2. insertTicketDetail() /home/ubuntu/workspace/IosPanaderia/api.php:90
+[02-Mar-2018 19:00:27 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 103
+[02-Mar-2018 19:00:27 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 19:00:27 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 19:00:27 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[02-Mar-2018 19:00:27 Europe/Madrid] PHP Notice:  Undefined index: id in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[02-Mar-2018 19:00:27 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 19:00:27 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 19:00:27 Europe/Madrid] PHP   2. insertTicketDetail() /home/ubuntu/workspace/IosPanaderia/api.php:90
+[02-Mar-2018 19:02:01 Europe/Madrid] PHP Notice:  Undefined index: id in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[02-Mar-2018 19:02:01 Europe/Madrid] PHP Stack trace:
+[02-Mar-2018 19:02:01 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[02-Mar-2018 19:02:01 Europe/Madrid] PHP   2. insertTicketDetail() /home/ubuntu/workspace/IosPanaderia/api.php:90
+[03-Mar-2018 03:10:48 Europe/Madrid] PHP Notice:  Undefined variable: respuesta in /home/ubuntu/workspace/IosPanaderia/api.php on line 95
+[03-Mar-2018 03:10:48 Europe/Madrid] PHP Stack trace:
+[03-Mar-2018 03:10:48 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[03-Mar-2018 03:10:48 Europe/Madrid] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/ubuntu/workspace/IosPanaderia/api.php on line 126
+[03-Mar-2018 03:10:48 Europe/Madrid] PHP Stack trace:
+[03-Mar-2018 03:10:48 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[03-Mar-2018 03:10:48 Europe/Madrid] PHP   2. utf8_converter() /home/ubuntu/workspace/IosPanaderia/api.php:95
+[03-Mar-2018 03:10:48 Europe/Madrid] PHP   3. array_walk_recursive() /home/ubuntu/workspace/IosPanaderia/api.php:126
+[04-Mar-2018 19:03:02 Europe/Madrid] PHP Notice:  Undefined variable: respuesta in /home/ubuntu/workspace/IosPanaderia/api.php on line 95
+[04-Mar-2018 19:03:02 Europe/Madrid] PHP Stack trace:
+[04-Mar-2018 19:03:02 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[04-Mar-2018 19:03:02 Europe/Madrid] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/ubuntu/workspace/IosPanaderia/api.php on line 126
+[04-Mar-2018 19:03:02 Europe/Madrid] PHP Stack trace:
+[04-Mar-2018 19:03:02 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[04-Mar-2018 19:03:02 Europe/Madrid] PHP   2. utf8_converter() /home/ubuntu/workspace/IosPanaderia/api.php:95
+[04-Mar-2018 19:03:02 Europe/Madrid] PHP   3. array_walk_recursive() /home/ubuntu/workspace/IosPanaderia/api.php:126
+[05-Mar-2018 10:10:13 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 103
+[05-Mar-2018 10:10:13 Europe/Madrid] PHP Stack trace:
+[05-Mar-2018 10:10:13 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[05-Mar-2018 10:10:13 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[05-Mar-2018 10:11:21 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 103
+[05-Mar-2018 10:11:21 Europe/Madrid] PHP Stack trace:
+[05-Mar-2018 10:11:21 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[05-Mar-2018 10:11:21 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[05-Mar-2018 10:11:26 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 103
+[05-Mar-2018 10:11:26 Europe/Madrid] PHP Stack trace:
+[05-Mar-2018 10:11:26 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[05-Mar-2018 10:11:26 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[05-Mar-2018 10:19:13 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 103
+[05-Mar-2018 10:19:13 Europe/Madrid] PHP Stack trace:
+[05-Mar-2018 10:19:13 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[05-Mar-2018 10:19:13 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[05-Mar-2018 10:27:22 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 103
+[05-Mar-2018 10:27:22 Europe/Madrid] PHP Stack trace:
+[05-Mar-2018 10:27:22 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[05-Mar-2018 10:27:22 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[05-Mar-2018 10:33:33 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 103
+[05-Mar-2018 10:33:33 Europe/Madrid] PHP Stack trace:
+[05-Mar-2018 10:33:33 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[05-Mar-2018 10:33:33 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[06-Mar-2018 14:33:37 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 103
+[06-Mar-2018 14:33:37 Europe/Madrid] PHP Stack trace:
+[06-Mar-2018 14:33:37 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[06-Mar-2018 14:33:37 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:88
+[06-Mar-2018 15:49:10 Europe/Madrid] PHP Notice:  Undefined variable: respuesta in /home/ubuntu/workspace/IosPanaderia/api.php on line 97
+[06-Mar-2018 15:49:10 Europe/Madrid] PHP Stack trace:
+[06-Mar-2018 15:49:10 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[06-Mar-2018 15:49:10 Europe/Madrid] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/ubuntu/workspace/IosPanaderia/api.php on line 128
+[06-Mar-2018 15:49:10 Europe/Madrid] PHP Stack trace:
+[06-Mar-2018 15:49:10 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[06-Mar-2018 15:49:10 Europe/Madrid] PHP   2. utf8_converter() /home/ubuntu/workspace/IosPanaderia/api.php:97
+[06-Mar-2018 15:49:10 Europe/Madrid] PHP   3. array_walk_recursive() /home/ubuntu/workspace/IosPanaderia/api.php:128
+[06-Mar-2018 15:50:24 Europe/Madrid] PHP Notice:  Undefined variable: respuesta in /home/ubuntu/workspace/IosPanaderia/api.php on line 97
+[06-Mar-2018 15:50:24 Europe/Madrid] PHP Stack trace:
+[06-Mar-2018 15:50:24 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[06-Mar-2018 15:50:24 Europe/Madrid] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/ubuntu/workspace/IosPanaderia/api.php on line 128
+[06-Mar-2018 15:50:24 Europe/Madrid] PHP Stack trace:
+[06-Mar-2018 15:50:24 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[06-Mar-2018 15:50:24 Europe/Madrid] PHP   2. utf8_converter() /home/ubuntu/workspace/IosPanaderia/api.php:97
+[06-Mar-2018 15:50:24 Europe/Madrid] PHP   3. array_walk_recursive() /home/ubuntu/workspace/IosPanaderia/api.php:128
+[06-Mar-2018 15:50:43 Europe/Madrid] PHP Notice:  Undefined variable: respuesta in /home/ubuntu/workspace/IosPanaderia/api.php on line 97
+[06-Mar-2018 15:50:43 Europe/Madrid] PHP Stack trace:
+[06-Mar-2018 15:50:43 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[06-Mar-2018 15:50:43 Europe/Madrid] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/ubuntu/workspace/IosPanaderia/api.php on line 128
+[06-Mar-2018 15:50:43 Europe/Madrid] PHP Stack trace:
+[06-Mar-2018 15:50:43 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[06-Mar-2018 15:50:43 Europe/Madrid] PHP   2. utf8_converter() /home/ubuntu/workspace/IosPanaderia/api.php:97
+[06-Mar-2018 15:50:43 Europe/Madrid] PHP   3. array_walk_recursive() /home/ubuntu/workspace/IosPanaderia/api.php:128
+[06-Mar-2018 16:17:15 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[06-Mar-2018 16:17:15 Europe/Madrid] PHP Stack trace:
+[06-Mar-2018 16:17:15 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[06-Mar-2018 16:17:15 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[06-Mar-2018 16:17:35 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[06-Mar-2018 16:17:35 Europe/Madrid] PHP Stack trace:
+[06-Mar-2018 16:17:35 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[06-Mar-2018 16:17:35 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[06-Mar-2018 16:18:21 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[06-Mar-2018 16:18:21 Europe/Madrid] PHP Stack trace:
+[06-Mar-2018 16:18:21 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[06-Mar-2018 16:18:21 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[06-Mar-2018 16:30:40 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[06-Mar-2018 16:30:40 Europe/Madrid] PHP Stack trace:
+[06-Mar-2018 16:30:40 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[06-Mar-2018 16:30:40 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[06-Mar-2018 16:30:44 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[06-Mar-2018 16:30:44 Europe/Madrid] PHP Stack trace:
+[06-Mar-2018 16:30:44 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[06-Mar-2018 16:30:44 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[06-Mar-2018 16:32:18 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[06-Mar-2018 16:32:18 Europe/Madrid] PHP Stack trace:
+[06-Mar-2018 16:32:18 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[06-Mar-2018 16:32:18 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[06-Mar-2018 16:36:15 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[06-Mar-2018 16:36:15 Europe/Madrid] PHP Stack trace:
+[06-Mar-2018 16:36:15 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[06-Mar-2018 16:36:15 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[06-Mar-2018 16:52:26 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[06-Mar-2018 16:52:26 Europe/Madrid] PHP Stack trace:
+[06-Mar-2018 16:52:26 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[06-Mar-2018 16:52:26 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[06-Mar-2018 16:55:11 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[06-Mar-2018 16:55:11 Europe/Madrid] PHP Stack trace:
+[06-Mar-2018 16:55:11 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[06-Mar-2018 16:55:11 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[07-Mar-2018 12:26:53 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[07-Mar-2018 12:26:53 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 12:26:53 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 12:26:53 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[07-Mar-2018 14:13:00 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[07-Mar-2018 14:13:00 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 14:13:00 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 14:13:00 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[07-Mar-2018 14:16:58 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[07-Mar-2018 14:16:58 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 14:16:58 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 14:16:58 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[07-Mar-2018 14:16:59 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[07-Mar-2018 14:16:59 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 14:16:59 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 14:16:59 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[07-Mar-2018 14:21:01 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[07-Mar-2018 14:21:01 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 14:21:01 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 14:21:01 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[07-Mar-2018 14:22:16 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[07-Mar-2018 14:22:16 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 14:22:16 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 14:22:16 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[07-Mar-2018 14:22:18 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[07-Mar-2018 14:22:18 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 14:22:18 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 14:22:18 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[07-Mar-2018 14:27:50 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 114
+[07-Mar-2018 14:27:50 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 14:27:50 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 14:27:50 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:91
+[07-Mar-2018 14:35:00 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 116
+[07-Mar-2018 14:35:00 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 14:35:00 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 14:35:00 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[07-Mar-2018 14:35:36 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 116
+[07-Mar-2018 14:35:36 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 14:35:36 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 14:35:36 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[07-Mar-2018 14:35:43 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 116
+[07-Mar-2018 14:35:43 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 14:35:43 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 14:35:43 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[07-Mar-2018 14:36:44 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 116
+[07-Mar-2018 14:36:44 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 14:36:44 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 14:36:44 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[07-Mar-2018 14:41:38 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 116
+[07-Mar-2018 14:41:38 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 14:41:38 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 14:41:38 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[07-Mar-2018 14:44:01 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 116
+[07-Mar-2018 14:44:01 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 14:44:01 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 14:44:01 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[07-Mar-2018 14:45:09 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 116
+[07-Mar-2018 14:45:09 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 14:45:09 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 14:45:09 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[07-Mar-2018 14:54:07 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 116
+[07-Mar-2018 14:54:07 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 14:54:07 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 14:54:07 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[07-Mar-2018 14:59:10 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 116
+[07-Mar-2018 14:59:10 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 14:59:10 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 14:59:10 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[07-Mar-2018 15:02:20 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 116
+[07-Mar-2018 15:02:20 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 15:02:20 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 15:02:20 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[07-Mar-2018 15:04:52 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 116
+[07-Mar-2018 15:04:52 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 15:04:52 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 15:04:52 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[07-Mar-2018 15:17:25 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 116
+[07-Mar-2018 15:17:25 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 15:17:25 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 15:17:25 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[07-Mar-2018 15:23:31 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 116
+[07-Mar-2018 15:23:31 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 15:23:31 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 15:23:31 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[07-Mar-2018 16:04:28 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 116
+[07-Mar-2018 16:04:28 Europe/Madrid] PHP Stack trace:
+[07-Mar-2018 16:04:28 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[07-Mar-2018 16:04:28 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[08-Mar-2018 09:05:49 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 116
+[08-Mar-2018 09:05:49 Europe/Madrid] PHP Stack trace:
+[08-Mar-2018 09:05:49 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[08-Mar-2018 09:05:49 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[08-Mar-2018 09:08:57 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 116
+[08-Mar-2018 09:08:57 Europe/Madrid] PHP Stack trace:
+[08-Mar-2018 09:08:57 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[08-Mar-2018 09:08:57 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[08-Mar-2018 09:11:17 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 119
+[08-Mar-2018 09:11:17 Europe/Madrid] PHP Stack trace:
+[08-Mar-2018 09:11:17 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[08-Mar-2018 09:11:17 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[08-Mar-2018 09:12:08 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 119
+[08-Mar-2018 09:12:08 Europe/Madrid] PHP Stack trace:
+[08-Mar-2018 09:12:08 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[08-Mar-2018 09:12:08 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[08-Mar-2018 09:15:51 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 119
+[08-Mar-2018 09:15:51 Europe/Madrid] PHP Stack trace:
+[08-Mar-2018 09:15:51 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[08-Mar-2018 09:15:51 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[08-Mar-2018 09:18:37 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 119
+[08-Mar-2018 09:18:37 Europe/Madrid] PHP Stack trace:
+[08-Mar-2018 09:18:37 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[08-Mar-2018 09:18:37 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[08-Mar-2018 09:33:22 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 119
+[08-Mar-2018 09:33:22 Europe/Madrid] PHP Stack trace:
+[08-Mar-2018 09:33:22 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[08-Mar-2018 09:33:22 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93
+[08-Mar-2018 10:12:59 Europe/Madrid] PHP Notice:  Undefined index: idclient in /home/ubuntu/workspace/IosPanaderia/api.php on line 119
+[08-Mar-2018 10:12:59 Europe/Madrid] PHP Stack trace:
+[08-Mar-2018 10:12:59 Europe/Madrid] PHP   1. {main}() /home/ubuntu/workspace/IosPanaderia/api.php:0
+[08-Mar-2018 10:12:59 Europe/Madrid] PHP   2. insertTicket() /home/ubuntu/workspace/IosPanaderia/api.php:93

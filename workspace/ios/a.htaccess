@@ -1,0 +1,24 @@
+#reglas de reescritura
+DirectoryIndex ejemplo.php
+Options -Indexes
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ ejemplo.php?url=$1 [QSA,L]
+# https://ide.c9.io/izvdamdaw/curso1718
+# %{REQUEST_FILENAME} full local filesystem path to the file or script matching the request
+# !-d -> is not a directory
+# !-f -> is not a file
+#si no pongo estas reglas, se aplica a todas las peticiones
+# ^ principio
+# (.*)$, (.+)$ -> expresiones regulares
+# () para agrupar
+# . cualquier carácter
+# * cero o más caracteres, + 1 o más caracteres
+# $ final
+# la er ^(.*)$ representa una cadena, que más adelante referenciamos como $1
+# así $1 – pasa el nombre que se ha obtenido a través de la e.r. a la url
+# RewriteRule ^(.*)$ api.php?url=$1 [QSA,L]
+# QSA query string append
+# L last
+
